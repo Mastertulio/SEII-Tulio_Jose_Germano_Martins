@@ -1,0 +1,3 @@
+git remote add origin https://github.com/Mastertulio/SEII-Tulio_Jose_Germano_Martins.git
+git branch -M main
+git push -u origin main
